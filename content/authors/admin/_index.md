@@ -1,5 +1,5 @@
 ---
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 avatar_filename: 87040c42-048c-4e7d-b57c-ef4e678f8a85.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -31,7 +31,7 @@ education:
       year: 2015
 superuser: true
 highlight_name: false
-title: Nelson Bighetti
+title: Christian De Leon
 email: ""
 ---
 I'm a person who researches cool stuff.
