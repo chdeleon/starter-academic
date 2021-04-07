@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate
-avatar_filename: 87040c42-048c-4e7d-b57c-ef4e678f8a85.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -12,12 +12,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Los Angeles
+    url: https://philosophy.ucla.edu
 education:
   courses:
     - course: Ph.D. in Philosophy
